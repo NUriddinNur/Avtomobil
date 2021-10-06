@@ -12,7 +12,7 @@ class Car:
 
     def select_options(self):
         if self.turn:
-            print("\n>>> Turn on")
+            print("\n>>> g'in - g'innnnn")
         else:
             print("\n>>> Turn off")
         self.show_car_option()
